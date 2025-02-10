@@ -1,5 +1,6 @@
 # pyps-workshop
-not that simplistic THERMOCALC front-end for constructing pseudosections
+
+**pypsbuilder** - not that simplistic THERMOCALC front-end for constructing pseudosections
 ---
 This repository contains material related to the online pypsbuilder workshop
 
