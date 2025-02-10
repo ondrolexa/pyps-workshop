@@ -1,0 +1,5 @@
+setpagewidth    700
+dataset         62
+calcmode        1  
+scriptfile      avgpelite
+*
