@@ -13,10 +13,8 @@ This repository contains material related to the online pypsbuilder workshop
 ## Agenda
 
 ### 11th February
- - 14:00 - 14:50 [meet.google.com/pae-zfwt-vdm](meet.google.com/pae-zfwt-vdm)
- - 15:00 - 16:00 
+ - 14:00 - 16:00 [meet.google.com/pae-zfwt-vdm](meet.google.com/pae-zfwt-vdm)
 
 ### 12th February
- - 14:00 - 14:50 
- - 15:00 - 16:00 
+ - 14:00 - 16:00 [https://meet.google.com/nct-inma-ehu](https://meet.google.com/nct-inma-ehu)
 
