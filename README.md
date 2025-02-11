@@ -13,10 +13,10 @@ This repository contains material related to the online pypsbuilder workshop
 ## Agenda
 
 ### 11th February
- - 14:00 - 14:50 [https://meet.google.com/mjo-ggvj-vqo](https://meet.google.com/mjo-ggvj-vqo)
- - 15:00 - 16:00 [https://meet.google.com/atm-dfyx-fqm](https://meet.google.com/atm-dfyx-fqm)
+ - 14:00 - 14:50 [meet.google.com/pae-zfwt-vdm](meet.google.com/pae-zfwt-vdm)
+ - 15:00 - 16:00 
 
 ### 12th February
- - 14:00 - 14:50 [https://meet.google.com/sit-bkha-gwr](https://meet.google.com/sit-bkha-gwr)
- - 15:00 - 16:00 [https://meet.google.com/nbj-rkiu-iyk](https://meet.google.com/nbj-rkiu-iyk)
+ - 14:00 - 14:50 
+ - 15:00 - 16:00 
 
